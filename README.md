@@ -20,7 +20,7 @@ _Create a GitHub Action and use it in a workflow._
   Do not use quotes on the <details> tag attributes.
 -->
 
-<details id=0 open>
+<details id=0>
 <summary><strong>:golf: Start</strong></summary>
 
 **To start this course: [<img width="150" alt="Use this template" src="https://user-images.githubusercontent.com/1221423/148581131-555c0fb8-5361-4450-a760-75fa6219a2fc.png">](https://github.com/githublearn/hello-github-actions/generate)**
@@ -46,7 +46,7 @@ Automation is key for streamlining your work processes, and [GitHub Actions](htt
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1>
+<details id=1 open>
 <summary><strong>:pencil: Step 1: Create a workflow file</strong></summary>
 
 ### :wave: Welcome to "Hello GitHub Actions"!
