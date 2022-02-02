@@ -120,7 +120,7 @@ In this step, we will add a "build" job. We will specify `ubuntu-latest` as the 
   Define terms and link to docs.github.com.
 -->
 
-<details id=3 open>
+<details id=3>
 <summary><strong>:mechanical_arm: Step 3: Add actions to your workflow file</strong></summary>
 
 ### :dancer: Nice work adding a job to your workflow!
@@ -165,7 +165,7 @@ In our action,
   Define terms and link to docs.github.com.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><strong>:shipit: Step 4: Merge your workflow file</strong></summary>
 
 ### :heart: You're now able to write and run Actions workflows!
