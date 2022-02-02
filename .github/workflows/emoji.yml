@@ -4,3 +4,11 @@ jobs:
   build:
     name: Check emoji shortcode
     runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: |
+          if LC_ALL=C grep -R '[^ -~]' *.md; then
+            echo "Use emoji shortcodes instead!"
+            echo "See https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md"
+            exit 1
+          fi
