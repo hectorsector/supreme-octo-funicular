@@ -165,7 +165,7 @@ In our action,
   Define terms and link to docs.github.com.
 -->
 
-<details id=4 open>
+<details id=4>
 <summary><strong>:shipit: Step 4: Merge your workflow file</strong></summary>
 
 ### :heart: You're now able to write and run Actions workflows!
@@ -186,7 +186,7 @@ Merge this pull request so the action will be a part of the `main` branch.
   Define terms and link to docs.github.com.
 -->
 
-<details id=5>
+<details id=5 open>
 <summary><strong>:arrow_forward: Step 5: Trigger the workflow</strong></summary>
 
 ### :smile: You've now got a fully functioning workflow!
