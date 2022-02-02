@@ -1,2 +1,6 @@
 name: Check emoji shortcode
 on: push
+jobs:
+  build:
+    name: Check emoji shortcode
+    runs-on: ubuntu-latest
