@@ -81,7 +81,7 @@ We went ahead and made a branch and pull request for you.
   Historic note: The previous course had troubleshooting steps for people not using the GitHub UI.
 -->
 
-<details id=2 open>
+<details id=2>
 <summary><strong>:beginner: Step 2: Add a job to your workflow file</strong></summary>
 
 ### Nice work! :tada: You added a workflow!
@@ -120,7 +120,7 @@ In this step, we will add a "build" job. We will specify `ubuntu-latest` as the 
   Define terms and link to docs.github.com.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><strong>:mechanical_arm: Step 3: Add actions to your workflow file</strong></summary>
 
 ### :dancer: Nice work adding a job to your workflow!
